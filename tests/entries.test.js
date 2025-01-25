@@ -1,4 +1,4 @@
-const entries = require('../entries')
+const t entries = require('../entries')
 
 test('check whether entries are being stored', () => {
     entry = {
